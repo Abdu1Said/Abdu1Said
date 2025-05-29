@@ -27,7 +27,7 @@ I'm passionate about ethical hacking, system defense, and real-world cybersecuri
 3. **Pascal's Triangle Generator**
    - Generates Pascal’s triangle structure using nested loops.
 
-4. **Binary Search Tree**
+4. **BinarySearchTree.java**
    - Demonstrates tree insertion, search, and in-order/post-order traversal.
 
 ---

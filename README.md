@@ -48,10 +48,5 @@ I'm passionate about ethical hacking, system defense, and building secure system
 
 ---
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/abdul-rahman-said-67b6852a8)  
-- [Instagram](https://www.instagram.com/__abdelrahman.said)  
-- [TikTok](https://vm.tiktok.com/ZP8Rt3Wm6/)  
-- [Facebook](https://www.facebook.com/Abdelrahman.Said.11)
+To view my resume, please head to this repository (https://github.com/Abdu1Said/Abdu1Said/blob/main/Abdul%20Said%20Resume.pdf)
 

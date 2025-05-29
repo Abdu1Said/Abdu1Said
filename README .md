@@ -18,17 +18,20 @@ I'm passionate about ethical hacking, system defense, and real-world cybersecuri
 
 ## 💻 Java Projects
 
-1. **Crossword Puzzle Generator**
-   - Created a terminal-based puzzle game using 2D arrays, user input, and character logic.
+## Programming Projects:
 
-2. **Letter Inventory Analyzer**
-   - Program that counts and compares the frequency of each letter in words.
+1. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java) (Java)
+   - This binary search tree allows in-order, pre-order, and post-order traversal.
 
-3. **Pascal's Triangle Generator**
-   - Generates Pascal’s triangle structure using nested loops.
+2. [Pascal Triangle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PascalTriangle.java) (Java)
+   - Generates Pascal’s triangle using nested loops.
 
-4. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java)
-   - Demonstrates tree insertion, search, and in-order/post-order traversal.
+3. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java) (Java)
+   - Compares the frequency of each letter in two words.
+
+4. [Crossword Puzzle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PhonebookManager.java) (Java)
+   - Uses arrays to build a puzzle grid with solutions.
+
 
 ---
 

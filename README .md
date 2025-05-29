@@ -16,8 +16,6 @@ I'm passionate about ethical hacking, system defense, and real-world cybersecuri
 
 ---
 
-## 💻 Java Projects
-
 ## 💻 Programming and Data Structures Projects (Java):
 
 1. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java)
@@ -29,7 +27,7 @@ I'm passionate about ethical hacking, system defense, and real-world cybersecuri
 3. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java)
    - Counts and compares the frequency of each letter in a word or sentence.
 
-4. [Phonebook Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/PhonebookManager.java)
+4. [Phonebook Manager](https://github.com/Abdu1Said/Phonebook-Manager/tree/main)
    - Uses arrays and logic to store, search, and display contact info like a mini phonebook.
 
 5. [Card / Deck Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/DeckManager.java)

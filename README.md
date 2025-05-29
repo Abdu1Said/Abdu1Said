@@ -18,20 +18,24 @@ I'm passionate about ethical hacking, system defense, and building secure system
 
 ## 💻 Programming and Data Structures Projects (Java):
 
-1. **Crossword Puzzle Generator**
-   - Creates crossword puzzles using 2D arrays and user-defined words.
-   - Supports solution display and puzzle-only view.
+1. [Phonebook Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/PhonebookManager.java)
+   - Uses arrays and logic to store, search, and display contact info like a mini phonebook.
 
-2. **Letter Inventory Analyzer**
-   - Counts and compares letter frequencies between words.
-   - Great for string analysis and search logic.
+2. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java)
+   - Implementation of a BST that allows adding, searching, and traversing nodes in pre/in/post-order.
 
-3. **Pascal’s Triangle Generator**
-   - Prints Pascal’s Triangle using nested loops and 2D arrays.
+3. [Pascal’s Triangle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PascalTriangle.java)
+   - Generates Pascal's triangle based on user input using nested loops and 2D arrays.
 
-4. **Binary Search Tree**
-   - Implements in-order, pre-order, and post-order traversal.
-   - Accepts names as input and builds the tree dynamically.
+4. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java)
+   - Counts and compares the frequency of each letter in a word or sentence.
+
+5. [Phonebook Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/PhonebookManager.java)
+   - Uses arrays and logic to store, search, and display contact info like a mini phonebook.
+
+6. [Card / Deck Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/DeckManager.java)
+   - Handles and shuffles a virtual deck of cards using enums and array logic.
+
 
 ---
 

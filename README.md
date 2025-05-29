@@ -46,7 +46,3 @@ I'm passionate about ethical hacking, system defense, and building secure system
 - **Tools:** Wireshark, Nmap, Nessus, pfSense, Fail2Ban  
 - **Platforms:** Active Directory, Group Policy, VMware, GitHub
 
----
-
-To view my resume, please head to this repository (https://github.com/Abdu1Said/Abdu1Said/blob/main/Abdul%20Said%20Resume.pdf)
-

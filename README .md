@@ -18,19 +18,22 @@ I'm passionate about ethical hacking, system defense, and real-world cybersecuri
 
 ## 💻 Programming and Data Structures Projects (Java):
 
-1. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java)
-   - Implementation of a BST that allows adding, searching, and traversing nodes in pre/in/post-order.
-
-2. [Pascal’s Triangle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PascalTriangle.java)
-   - Generates Pascal's triangle based on user input using nested loops and 2D arrays.
-
-3. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java)
-   - Counts and compares the frequency of each letter in a word or sentence.
-
-4. [Phonebook Manager](https://github.com/Abdu1Said/Phonebook-Manager/tree/main)
+1. [Phonebook Manager](https://github.com/Abdu1Said/Phonebook-Manager/tree/main)
    - Uses arrays and logic to store, search, and display contact info like a mini phonebook.
 
-5. [Card / Deck Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/DeckManager.java)
+2. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java)
+   - Implementation of a BST that allows adding, searching, and traversing nodes in pre/in/post-order.
+
+3. [Pascal’s Triangle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PascalTriangle.java)
+   - Generates Pascal's triangle based on user input using nested loops and 2D arrays.
+
+4. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java)
+   - Counts and compares the frequency of each letter in a word or sentence.
+
+5. [Phonebook Manager](https://github.com/Abdu1Said/Phonebook-Manager/tree/main)
+   - Uses arrays and logic to store, search, and display contact info like a mini phonebook.
+
+6. [Card / Deck Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/DeckManager.java)
    - Handles and shuffles a virtual deck of cards using enums and array logic.
 
 

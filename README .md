@@ -18,19 +18,22 @@ I'm passionate about ethical hacking, system defense, and real-world cybersecuri
 
 ## 💻 Java Projects
 
-## Programming Projects:
+## 💻 Programming and Data Structures Projects (Java):
 
-1. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java) (Java)
-   - This binary search tree allows in-order, pre-order, and post-order traversal.
+1. [Binary Search Tree](https://github.com/Abdu1Said/Abdu1Said/blob/main/BinarySearchTree.java)
+   - Implementation of a BST that allows adding, searching, and traversing nodes in pre/in/post-order.
 
-2. [Pascal Triangle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PascalTriangle.java) (Java)
-   - Generates Pascal’s triangle using nested loops.
+2. [Pascal’s Triangle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PascalTriangle.java)
+   - Generates Pascal's triangle based on user input using nested loops and 2D arrays.
 
-3. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java) (Java)
-   - Compares the frequency of each letter in two words.
+3. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java)
+   - Counts and compares the frequency of each letter in a word or sentence.
 
-4. [Crossword Puzzle](https://github.com/Abdu1Said/Abdu1Said/blob/main/PhonebookManager.java) (Java)
-   - Uses arrays to build a puzzle grid with solutions.
+4. [Phonebook Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/PhonebookManager.java)
+   - Uses arrays and logic to store, search, and display contact info like a mini phonebook.
+
+5. [Card / Deck Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/DeckManager.java)
+   - Handles and shuffles a virtual deck of cards using enums and array logic.
 
 
 ---

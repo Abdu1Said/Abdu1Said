@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdul Rahman Said
+Hi, I’m Abdul Rahman Said 👋
 
 I’m a cybersecurity student at Whatcom Community College, with plans to transfer to Western Washington University for a B.S. in Cybersecurity.  
 I'm passionate about ethical hacking, system defense, and real-world cybersecurity labs and competitions.

@@ -1,0 +1,62 @@
+# 🔐 SOC Level 1 Journey on TryHackMe
+
+This repository documents my full step-by-step progress through **SOC Level 1** training on TryHackMe. It includes cyber defense frameworks, threat intelligence, network and endpoint monitoring, SIEM, digital forensics, phishing, and capstone labs.
+
+---
+
+## 📌 Sections Covered
+
+1. Cyber Defence Frameworks  
+2. Cyber Threat Intelligence  
+3. Network Security & Traffic Analysis  
+4. Endpoint Security Monitoring  
+5. SIEM (Security Information & Event Management)  
+6. Digital Forensics & Incident Response (DFIR)  
+7. Phishing Analysis  
+8. Capstone Challenges
+
+---
+
+## 📂 Structure
+
+Each step has its own markdown file inside folders like:
+
+SOC-Level-1-TryHackMe/
+├── 01-Cyber-Defence-Frameworks/
+│ └── 01-Junior-Security-Analyst.md
+├── 02-Cyber-Threat-Intelligence/
+│ └── 01-Intro-to-CTI.md
+
+
+
+---
+
+## ✅ My Goal
+
+To build real-world blue-team skills and showcase my growth as a junior security analyst.
+
+---
+
+## 🛠️ Tools Used
+Splunk • Zeek • Wireshark • Sysmon • Event Viewer • Autopsy • Redline • MISP • Yara • Osquery
+
+---
+
+## 👀 Progress Tracker
+
+| Section | Status     |
+|---------|------------|
+| Cyber Defence Frameworks         | 🟡 In Progress |
+| Cyber Threat Intelligence        | ⬜ Pending |
+| Network Security                 | ⬜ Pending |
+| Endpoint Security Monitoring     | ⬜ Pending |
+| SIEM                             | ⬜ Pending |
+| Digital Forensics (DFIR)        | ⬜ Pending |
+| Phishing                         | ⬜ Pending |
+| Capstone Challenges              | ⬜ Pending |
+
+---
+
+## 📬 Stay Tuned
+
+More step-by-step room write-ups are being added soon!

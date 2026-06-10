@@ -30,10 +30,7 @@ I'm passionate about ethical hacking, system defense, and building secure system
 4. [Letter Inventory](https://github.com/Abdu1Said/Abdu1Said/blob/main/LetterInventory.java)
    - Counts and compares the frequency of each letter in a word or sentence.
 
-5. [Phonebook Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/PhonebookManager.java)
-   - Uses arrays and logic to store, search, and display contact info like a mini phonebook.
-
-6. [Card / Deck Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/DeckManager.java)
+5. [Card / Deck Manager](https://github.com/Abdu1Said/Abdu1Said/blob/main/DeckManager.java)
    - Handles and shuffles a virtual deck of cards using enums and array logic.
 
 
